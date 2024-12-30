@@ -1,0 +1,1 @@
+A Program to show how to implement custom query building using EntityManager, CriteriaBuilder interfaces:

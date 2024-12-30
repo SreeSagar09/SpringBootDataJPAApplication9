@@ -1,0 +1,10 @@
+A Program to show how to implement custom query building using EntityManager, CriteriaBuilder interfaces:
+Programs:
+* SpringBootDataJPAApplication8Application.java
+* Employee.java
+* EmployeeCustomRepository.java
+* EmployeeCustomRepositoryImpl.java
+* TestRunner.java
+Notes:
+
+Output:
